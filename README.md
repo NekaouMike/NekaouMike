@@ -1,4 +1,5 @@
-I go by many names but "JewishLewish" is my developer name. I mostly work on Python Development or Front-end Development. 
+I am funny based cat progammer.
+check out my <a href="https://nekaoumike.dev">site</a>
 
 <hr />
 
