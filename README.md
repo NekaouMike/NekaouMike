@@ -10,7 +10,7 @@ check out my <a href="https://nekaoumike.dev">site</a>
   </a>
 </p>
 <br />
-
+<!-- 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NekaouMike&theme=merko&show_icons=true" />
-</p>
+</p> -->
