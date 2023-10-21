@@ -8,6 +8,7 @@ check out my <a href="https://nekaoumike.dev">site</a>
     <img src="https://skillicons.dev/icons?i=cpp,js,html,cs,java" />
     <br />
   </a>
+  <img src ="https://jewishlewish.github.io/Fullmoon/assets/img/Mewgem.svg">
 </p>
 <br />
 <!-- 
