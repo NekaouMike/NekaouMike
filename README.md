@@ -6,6 +6,7 @@ check out my <a href="https://nekaoumike.dev">site</a>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,html,cs,java" />
+    <img src="https://jewishlewish.github.io/Fullmoon/?svg=Mewgem.svg"/>
     <br />
   </a>
 </p>
