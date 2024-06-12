@@ -9,12 +9,12 @@ check out my <a href="https://nekaoumike.dev">site</a>
     <br />
   </a>
 <a href="https://mewgem.net">
-  <img src ="https://jewishlewish.github.io/Fullmoon/assets/img/Mewgem.svg">
+  <img src ="https://mewgem.net/assets/img/logo.png">
 </a>
 </p>
 <br />
 
-<img src ="https://http.cat/status/100.png"/>
+
 <!-- 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NekaouMike&theme=merko&show_icons=true" />
