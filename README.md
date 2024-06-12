@@ -14,7 +14,7 @@ check out my <a href="https://nekaoumike.dev">site</a>
 </p>
 <br />
 
-[CAT](https://http.cat/status/100.png)
+<img src ="https://http.cat/status/100.png"/>
 <!-- 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NekaouMike&theme=merko&show_icons=true" />
